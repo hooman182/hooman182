@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <p align="left">I'm a enthusiastic backend developer with willingness to learn and master Django, RestFull Api and Testing.</p>
 
 <h3 align="left">Skills</h2>
+
 ###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
